@@ -3,7 +3,7 @@ layout: post
 title: Privacy Analysis of Data Anonymization 🛡️
 date: 2021-01-25
 categories: research
-tags: [python,LaTeX]
+tags: [python,latex]
 ---
 Research Assistant
 
