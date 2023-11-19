@@ -137,7 +137,7 @@ body[data-theme="dark"] {
         color: $dark-white;
       }
 
-      .dark-icon {
+      .menu-icon {
         > svg {
           fill: #fff
         }
@@ -223,6 +223,12 @@ body[data-theme="dark"] {
     .footer_copyright {
       color: $dark-gray;
       opacity: 1;
+    }
+
+    .menu-icon {
+      > svg {
+        fill: $dark-white;
+      }
     }
   }
 

@@ -2,11 +2,11 @@
   url: /
   external: false
 
-- title: languages
+- title: code
   url: /tags/
   external: false
 
-- title: project
+- title: projects
   url: /categories/#project
   external: false
 
