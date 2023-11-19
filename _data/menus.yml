@@ -2,6 +2,18 @@
   url: /
   external: false
 
+- title: languages
+  url: /tags/
+  external: false
+
+- title: project
+  url: /categories/#project
+  external: false
+
+- title: research
+  url: /categories/#research
+  external: false
+
 - title: archive
   url: /archive/
   external: false
@@ -10,7 +22,3 @@
   url: /about/
   external: false # set true if you using external link, see below
 
-# Example:
-# - title: github
-#   url: https://github.com/piharpi/jekyll-klise
-#   external: true
