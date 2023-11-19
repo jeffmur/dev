@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apollo Video Technology 🚀
-date: 2020-03-03 10:00:00
+date: 2020-03-03
 tags: [dart,flutter,javascript]
 categories: project
 ---

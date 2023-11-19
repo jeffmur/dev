@@ -1,10 +1,12 @@
 ---
-title: about
+title: About 🧑‍💻
 permalink: /about/
 layout: page
 excerpt: Contact information and resume
 comments: false
 ---
+
+
 
 ### Contact Me ✨
 
