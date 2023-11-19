@@ -1,11 +1,11 @@
 # Site settings
 title: jeffmur # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
-lang: en-US # default lang
+  Explore the world of software development with jeffmur, 
+  a developer sharing insights, tutorials, and industry experiences on this personal blog.
+lang: en-US
 timezone: America/Los_Angeles # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: /assets/img/avatar.jpg # more info https://ogp.me/
 repo: https://github.com/jeffmur/dev # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
@@ -17,10 +17,10 @@ author:
   username: jeffmur
   github: jeffmur
   linkedin: jeffmurjr
-  # twitter: twitter_username # twitter username
-  # facebook: facebook_username # facebook username
-  email: root@jeffmur.dev # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  # twitter: twitter_username
+  # facebook: facebook_username 
+  email: root@jeffmur.dev
+  avatar: /assets/img/avatar.jpg
 
 # URL settings
 url: "https://jeffmur.dev"
