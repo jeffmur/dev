@@ -2,7 +2,7 @@
 layout: post
 title: Smart Mirror 🪞
 date: 2021-11-16
-tags: [python,javascript,LaTeX]
+tags: [python,javascript,latex]
 categories: project
 ---
 DIY Google Assistant Smart Mirror with Facial Recognition
