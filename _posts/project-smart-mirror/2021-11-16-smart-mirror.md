@@ -37,4 +37,4 @@ This project contains 6 components split amongst two devices, Jetson Nano 2GB an
 ## Whitepaper
 For CSS 532, Internet of Things, a research component was required to justify the design, compare to other products in the market, and analyze the performance of our system.
 
-<a href="/assets/pdf/smart-mirror.pdf" target="_blank">View PDF</a>
+<a href="/assets/pdf/smart-mirror.pdf" target="_blank">View Whitepaper</a>

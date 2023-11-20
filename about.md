@@ -8,11 +8,11 @@ comments: false
 
 
 
-### Contact Me ✨
+### Contact ✨
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
-- linkedin.com/in/{{ site.author.linkedin }}
+- Email me: [{{ site.author.email }}](mailto:{{ site.author.email }})
+- View my projects: [github.com/{{ site.author.github }}](https://github.com/{{ site.author.github }})
+- Connect with me: [linkedin.com/in/{{ site.author.linkedin }}](https://linkedin.com/in/{{ site.author.linkedin }})
 
 ### Resume 📰
 
@@ -23,5 +23,5 @@ comments: false
     document.getElementById("lastModified").innerHTML = date.toDateString();
 </script>
 
-<a href="{{ site.author.resume }}" target="_blank">View PDF</a>
+<a href="{{ site.author.resume }}" target="_blank">View Resume</a>
 

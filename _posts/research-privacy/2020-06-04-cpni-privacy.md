@@ -19,7 +19,7 @@ Research Assistant
 **Publication** <br>
 Murray Jr, Jeffrey, Afra Mashhadi, Brent Lagesse, and Michael Stiber. 2021. “Privacy Preserving Techniques Applied to CPNI Data: Analysis and Recommendations.” arXiv:2101.09834 [Cs], January. [http://arxiv.org/abs/2101.09834](http://arxiv.org/abs/2101.09834).
 
-<a href="/assets/pdf/privacy-cpni.pdf" target="_blank">View PDF</a>
+<a href="/assets/pdf/privacy-cpni.pdf" target="_blank">View Landscape Paper</a>
 
 ## Introduction
 Telecom operators collect enormous amounts of data that is often referred to as Customer Proprietary Network Information (CPNI). One of the main dimensions of such data is Call Data Records which includes fine grain information regarding the location (latitude and longitude) of the caller, and the callee, along with their associated cell towers and the time of the call. This data is not only essential to the billing operations of the telecom industry but is also extremely valuable for third party agencies and researchers. For example, a common need when analyzing real-world data-sets is determining which instances stand out as being dissimilar to all others. Such instances are known as anomalies, and given a high prevalence of normal instances of data, anomalies can be identified using machine learning approaches. 
