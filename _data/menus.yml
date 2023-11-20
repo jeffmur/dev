@@ -7,11 +7,11 @@
   external: false
 
 - title: projects
-  url: /categories/#project
+  url: /projects/
   external: false
 
 - title: research
-  url: /categories/#research
+  url: /research/
   external: false
 
 - title: archive
