@@ -22,6 +22,14 @@
   // Blur the content when the menu is open
   const cbox = document.getElementById("menu-trigger");
 
+  // Unblur when dropdown is active and is clicked
+  const trigger = document.querySelector(".trigger")
+  trigger.addEventListener('click', (event) => {
+    const area = document.querySelector(".wrapper");
+    cbox.checked = !cbox.checked
+    area.classList.remove("blurry")
+  });
+
   cbox.addEventListener("change", function () {
     const area = document.querySelector(".wrapper");
     this.checked
