@@ -19,6 +19,8 @@ Research Assistant
 **Publication** <br>
 Murray Jr, Jeffrey, Afra Mashhadi, Brent Lagesse, and Michael Stiber. 2021. “Privacy Preserving Techniques Applied to CPNI Data: Analysis and Recommendations.” arXiv:2101.09834 [Cs], January. [http://arxiv.org/abs/2101.09834](http://arxiv.org/abs/2101.09834).
 
+<a href="/assets/pdf/privacy-cpni.pdf" target="_blank">View PDF</a>
+
 ## Introduction
 Telecom operators collect enormous amounts of data that is often referred to as Customer Proprietary Network Information (CPNI). One of the main dimensions of such data is Call Data Records which includes fine grain information regarding the location (latitude and longitude) of the caller, and the callee, along with their associated cell towers and the time of the call. This data is not only essential to the billing operations of the telecom industry but is also extremely valuable for third party agencies and researchers. For example, a common need when analyzing real-world data-sets is determining which instances stand out as being dissimilar to all others. Such instances are known as anomalies, and given a high prevalence of normal instances of data, anomalies can be identified using machine learning approaches. 
 
@@ -36,11 +38,3 @@ Oliver, N., Lepri, B., Sterly, H., Lambiotte, R., Deletaille, S., De Nadai, M., 
 Oliver, N., Matic, A., & Frias-Martinez, E. (2015). Mobile Network Data for Public Health: Opportunities and Challenges. Frontiers in Public Health, 3. https://doi.org/10.3389/fpubh.2015.00189
 
 Wang, S., Cao, J., & Yu, P. S. (2019). Deep Learning for Spatio-Temporal Data Mining: A Survey. ArXiv:1906.04928 [Cs, Stat]. http://arxiv.org/abs/1906.04928
-
-## Landscape Paper
-
-<object data="/assets/pdf/privacy-cpni.pdf" type="application/pdf" width="800px" height="800px">
-    <embed src="/assets/pdf/privacy-cpni.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/privacy-cpni.pdf">Download PDF</a></p>
-    </embed>
-</object>

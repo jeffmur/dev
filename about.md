@@ -23,8 +23,5 @@ comments: false
     document.getElementById("lastModified").innerHTML = date.toDateString();
 </script>
 
-<object data="/assets/pdf/resume.pdf" type="application/pdf" width="800px" height="800px">
-    <embed src="/assets/pdf/resume.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/resume.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<a href="/assets/pdf/Murray-Jeffrey-Resume.pdf" target="_blank">View PDF</a>
+

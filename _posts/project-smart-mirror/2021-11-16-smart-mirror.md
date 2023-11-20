@@ -10,7 +10,7 @@ DIY Google Assistant Smart Mirror with Facial Recognition
 Demo video on [YouTube](https://www.youtube-nocookie.com/embed/5QshXc3VS9g?si=4Gim9wFBZNtskzex)
 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5QshXc3VS9g?si=4Gim9wFBZNtskzex" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/5QshXc3VS9g?si=4Gim9wFBZNtskzex" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Overview
 
@@ -37,10 +37,4 @@ This project contains 6 components split amongst two devices, Jetson Nano 2GB an
 ## Whitepaper
 For CSS 532, Internet of Things, a research component was required to justify the design, compare to other products in the market, and analyze the performance of our system.
 
-[Download](/assets/pdf/smart-mirror.pdf)
-
-<object data="/assets/pdf/smart-mirror.pdf" type="application/pdf" width="800px" height="800px">
-    <embed src="/assets/pdf/smart-mirror.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/smart-mirror.pdf">Download PDF</a></p>
-    </embed>
-</object>
+<a href="/assets/pdf/smart-mirror.pdf" target="_blank">View PDF</a>
