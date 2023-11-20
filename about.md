@@ -23,5 +23,5 @@ comments: false
     document.getElementById("lastModified").innerHTML = date.toDateString();
 </script>
 
-<a href="/assets/pdf/Murray-Jeffrey-Resume.pdf" target="_blank">View PDF</a>
+<a href="{{ site.author.resume }}" target="_blank">View PDF</a>
 
