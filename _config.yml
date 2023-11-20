@@ -1,8 +1,7 @@
 # Site settings
 title: jeffmur # site title
 description: >- # site description
-  Explore the world of software development with jeffmur, 
-  a developer sharing insights, tutorials, and industry experiences on this personal blog.
+  Sharing insights, tutorials, and industry experiences on this personal blog.
 lang: en-US
 timezone: America/Los_Angeles # set your timezone
 image: /assets/img/avatar.jpg # more info https://ogp.me/
