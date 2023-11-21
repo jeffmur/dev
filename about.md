@@ -18,12 +18,13 @@ I am Jeffrey Murray Jr, a passionate software developer. Welcome to my personal 
 
 ### Resume 📰
 
-<p>Last Modified: <span class="post-item-date" id="lastModified"></span></p>
+<p>Last Modified: <span class="post-item-date" id="lastModified"></span>
 
 <script>
     const date = new Date(document.lastModified);
     document.getElementById("lastModified").innerHTML = date.toDateString();
 </script>
-
+<br>
 <a href="{{ site.author.resume }}" target="_blank">View Resume</a>
 
+</p>
