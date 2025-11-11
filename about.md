@@ -8,13 +8,14 @@ comments: false
 
 ![](/assets/img/banner.png)
 
-I am Jeffrey Murray Jr, a passionate software developer. Welcome to my personal blog, a platform where I explore various topics and showcase my projects. I am drawn towards solving complex problems, driven by an insatiable eagerness to learn. While writing isn’t my strongest suit, this blog is my commitment to not only improve my articulation skills but also to share comprehensive articles on subjects that fascinate me, with the help of [ChatGPT](https://chat.openai.com) of course.
+I am Jeffrey Murray Jr, a passionate software developer. Welcome to my personal blog, a platform where I explore various topics and showcase my projects. I am drawn towards solving complex problems, driven by an insatiable eagerness to learn. While writing isn’t my strongest suit, this blog is my commitment to not only improve my articulation skills but also to share comprehensive articles on subjects that fascinate me, with the help of Gemini of course.
 
 ### Contact ✨
 
 - Email me: [{{ site.author.email }}](mailto:{{ site.author.email }})
 - View my projects: [github.com/{{ site.author.github }}](https://github.com/{{ site.author.github }})
 - Connect with me: [linkedin.com/in/{{ site.author.linkedin }}](https://linkedin.com/in/{{ site.author.linkedin }})
+- View my publications: [orcid.org/0009-0001-7817-5068](https://orcid.org/0009-0001-7817-5068)
 
 ### Resume 📰
 
