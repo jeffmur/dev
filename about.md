@@ -8,7 +8,7 @@ comments: false
 
 ![](/assets/img/banner.png)
 
-I am Jeffrey Murray Jr, a passionate software developer. Welcome to my personal blog, a platform where I explore various topics and showcase my projects. I am drawn towards solving complex problems, driven by an insatiable eagerness to learn. While writing isn’t my strongest suit, this blog is my commitment to not only improve my articulation skills but also to share comprehensive articles on subjects that fascinate me, with the help of Gemini of course.
+I am Jeffrey Murray Jr, a passionate software developer. Welcome to my personal blog, a platform where I explore various topics and showcase my projects. I am drawn towards solving complex problems, driven by an insatiable eagerness to learn. While writing isn’t my strongest suit, this blog is my commitment to not only improve my articulation skills but also to share comprehensive articles on subjects that fascinate me, with the help of LLMs of course.
 
 ### Contact ✨
 
