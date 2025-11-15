@@ -1,5 +1,5 @@
 # Site settings
-title: jeffmur # site title
+title: jeffmur.dev # site title
 description: >- # site description
   Sharing insights, tutorials, and industry experiences on this personal blog.
 lang: en-US
@@ -16,11 +16,10 @@ author:
   username: jeffmur
   github: jeffmur
   linkedin: jeffmurjr
-  # twitter: twitter_username
-  # facebook: facebook_username 
   email: root@jeffmur.dev
   avatar: /assets/img/avatar.jpg
   resume: /assets/pdf/Murray-Jeffrey-Resume.pdf
+  orcid: 0009-0001-7817-5068
 
 # URL settings
 url: "https://jeffmur.dev"
