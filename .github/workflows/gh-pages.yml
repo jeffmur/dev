@@ -1,7 +1,7 @@
 name: "Github Pages 🚢"
 on:
   push:
-    branches: [ "actions" ]
+    branches: [ "main" ]
 
 permissions:
   contents: read
